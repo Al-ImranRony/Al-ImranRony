@@ -1,6 +1,11 @@
-### Peace be upon you ! 😊
+###Imran Rony
+[LinkedIn](https://www.linkedin.com/in/imran-rony-02711117b/)  [HackerRank](https://www.hackerrank.com/Morphin)  [MyWeb](https://sites.google.com/view/imranrony)
 
-I am Imran Rony; Currently studying Computer Science & Engineering in Sylhet Engineering College. I'm a python enthusiast and I love programming. 🧗‍♂️ 👋
+# Peace be upon you ! 😊
+=========================================================================================================================================================
+'''
+<p>I am Imran Rony; Currently studying Computer Science & Engineering in Sylhet Engineering College. I'm a python enthusiast and I love programming. 🧗‍♂️ 👋</p>
+'''
 
 - 🔭 I’m currently working on Python skill improvement.
 - 🌱 I’m currently learning Django
