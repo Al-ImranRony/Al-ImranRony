@@ -1,9 +1,10 @@
-###Imran Rony###
-[LinkedIn](https://www.linkedin.com/in/imran-rony-02711117b/)  [HackerRank](https://www.hackerrank.com/Morphin)  [MyWeb](https://sites.google.com/view/imranrony)
+#Imran Rony
 
 # Peace be upon you ! 😊
 ========================
+
 '''
+
 <p>I am Imran Rony; Currently studying Computer Science & Engineering in Sylhet Engineering College. I'm a python enthusiast and I love programming. 🧗‍♂️ 👋</p>
 '''
 
@@ -14,4 +15,5 @@
 - 💬 Ask me about new technologies and ideas, I want to share and receive knowledge !
 - 😉 Fun fact: I love to make new friends, let's be connected !
 
-- 🤙 How to reach me: Email-> imranrony687@gmail.com  or LinkedIn-> https://www.linkedin.com/in/imran-rony-02711117b/
+- 🤙 How to reach me: [LinkedIn](https://www.linkedin.com/in/imran-rony-02711117b/)  [HackerRank](https://www.hackerrank.com/Morphin)  [MyWeb](https://sites.google.com/view/imranrony) [Email](imranrony687@gmail.com)
+
