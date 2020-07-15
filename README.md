@@ -1,7 +1,7 @@
 # Peace be upon you ! 😊
 
 ```
-I'm Imran Rony; Currently studying CSE in Sylhet Engineering College, a python enthusiast and love programming.👋
+I'm Imran Rony; Currently studying Computer Science in Sylhet Engineering College, a python enthusiast and love programming.👋
 ```
 
 - 🔭 I’m currently working on Python skill improvement.
