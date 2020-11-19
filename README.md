@@ -5,7 +5,7 @@ This is Imran Rony; Studying Computer Science in Sylhet Engineering College, a p
 ```
 
 - 🔭 I’m currently working on Python skill improvement with competitive programming.
-- 🌱 I’m currently learning Django, web developing.
+- 🌱 I’m currently learning web development with Django.
 - 👯 I’m looking to collaborate on project based on python-django.
 - 🤝 I’m looking for help with learning about API and Algorithm designing.
 - 💬 Ask me about new technologies and ideas, I want to share knowledge !
