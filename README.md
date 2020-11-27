@@ -8,7 +8,7 @@ This is Imran Rony; Studying Computer Science in Sylhet Engineering College, a p
 - 🌱 I’m currently learning web development with Django.
 - 👯 I’m looking to collaborate on project based on python-django.
 - 🤝 I’m looking for help with learning about API and Algorithm designing.
-- 💬 Ask me about new technologies and ideas, I want to share knowledge !
+- 💬 Ask me about new technologies with different ideas, I want to share knowledge !
 - 😉 Fun fact: I love to make new friends, let's be connected !
 
 - 🤙 How to reach me:  [Email](mailto:imranrony687@gmail.com) |  [WhatsApp](https://sites.google.com/view/imranrony/contacts) | [Messenger](m.me/imran.rony.3591)
