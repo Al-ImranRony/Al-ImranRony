@@ -13,5 +13,5 @@ This is Imran Rony; Studying Computer Science in Sylhet Engineering College, a p
 
 - 🤙 How to reach me:  [Email](mailto:imranrony687@gmail.com) |  [WhatsApp](https://sites.google.com/view/imranrony/contacts) | [Messenger](m.me/imran.rony.3591)
 
- # *Visit my*:   [LinkedIn](https://www.linkedin.com/in/imran-rony-02711117b/)  |  [HackerRank](https://www.hackerrank.com/Morphin)  |  [Portfolio](https://sites.google.com/view/imranrony) 
+ # *Visit my profiles here at* :   [LinkedIn](https://www.linkedin.com/in/imran-rony-02711117b/)  |  [HackerRank](https://www.hackerrank.com/Morphin)  |  [Portfolio](https://sites.google.com/view/imranrony) 
 
