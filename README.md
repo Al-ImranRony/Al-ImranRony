@@ -5,9 +5,9 @@ This is Imran Rony; an iOS and blockchain developer, a python enthusiast, love t
 ```
 
 - 👨‍💻 I’m currently working on iOS development along with Blockchain-NFT application.
-- 🔭 I’m currently developing skills on Python with Competitive Programming and Personal projects.
-- 👯 I’m looking to collaborate on project based on Python-Django & Blockchain.
-- 🤝 I’m looking for help with learning about API, App-Architecture and Algorithm designing.
+- 🔭 Developing skills on Python with Competitive Programming and Personal projects.
+- 👯 Looking to collaborate on project based on Python-Django & Blockchain.
+- 🤝 Looking for help with learning about API, App-Architecture and Algorithm designing.
 - 💬 Ask me about new technologies with different ideas, I want to share knowledge !
 
 - 🤙 Rreach me at:  [Email](mailto:imranrony687@gmail.com) |  [WhatsApp](https://sites.google.com/view/imranrony/contacts) | [Messenger](https://www.facebook.com/imran.rony.3591)
