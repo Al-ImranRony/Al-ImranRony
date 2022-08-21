@@ -1,4 +1,4 @@
-# Hi, Peace be upon you ! 😶‍🌫️👨‍💻
+# Hi, Peace be upon you ! 😶‍🌫️
 
 ```
 This is Imran Rony; an iOS and blockchain developer, a python enthusiast, love to create and code.👋
