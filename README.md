@@ -1,10 +1,10 @@
 # Hi, Peace be upon you ! 😶‍🌫️
 
 ```
-Meet an iOS and blockchain developer, a python enthusiast, who love to create and code.👋
+Meet an iOS developer, a python and blockchain enthusiast, who love to create and code.👋
 ```
 
-- 👨‍💻 I’m currently working in iOS development along with Blockchain-NFT application.
+- 👨‍💻 Currently, I’m working in iOS development along with Blockchain-NFT application.
 - 🔭 Developing skills on Python with Competitive Programming and Personal projects.
 - 👯 Looking to collaborate on project based on Python-Django & Blockchain.
 - 🤝 Looking for help with learning about API, App-Architecture and Algorithm designing.
