@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, 👋 Peace be upon you !</h1>
 
 ```
-<h3 align="center">Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who love to create and code 🤝</h3>
+Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who love to create and code 🤝
 ```
 
 <p align="left"> <a href="https://twitter.com/imran_r0ny" target="blank"><img src="https://img.shields.io/twitter/follow/imran_r0ny?logo=twitter&style=for-the-badge" alt="imran_r0ny" /></a>  -  <a href="https://sites.google.com/view/imranrony" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>  -  <a href="https://www.linkedin.com/in/imran-rony/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
