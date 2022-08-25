@@ -4,6 +4,7 @@
 Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who love to create and code 🤝
 ```
 
+
 <p align="left"> <a href="https://twitter.com/imran_r0ny" target="blank"><img src="https://img.shields.io/twitter/follow/imran_r0ny?logo=twitter&style=for-the-badge" alt="imran_r0ny" /></a>  -  <a href="https://sites.google.com/view/imranrony" target="blank"><img src="https://img.shields.io/badge/iRony-Website-yellowgreen" /></a>  -  <a href="https://www.linkedin.com/in/imran-rony/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
 - 👨‍💻 Currently, I'm working on **iOS development along with Blockchain-NFT based application**
@@ -14,15 +15,16 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
 
 - 👯 Looking to collaborate on projects based on - **Python-Django & Blockchain**
 
-- 👨‍💻 All of my projects are available at - <a href="https://sites.google.com/view/imranrony/portfolio?authuser=0" target="blank"><img src="https://img.shields.io/badge/portfolio-Website-brightgreen" /></a>
+- 👨‍💻 All of my projects are available at - <a href="https://sites.google.com/view/imranrony/portfolio?authuser=0" target="blank"><img src="https://img.shields.io/badge/portfolio-Website-%2318A303" /></a>
 
 - 💬 Ask me about new technologies with different ideas, I want to share knowledge of **Ethereum blockchain, IoT, NFT etc**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning  -  ![iOS](https://img.shields.io/badge/SWIFTUI-yellowgreen?logo=ios&logoColor=black) 
+<!--  [![Apple](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://stackoverflow.com/users/5650328/adeel) -->
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12u0yyLzdusYEc1AE5pIy8rjkv8SNgjm0/view?usp=sharing&authuser=0](https://drive.google.com/file/d/12u0yyLzdusYEc1AE5pIy8rjkv8SNgjm0/view?usp=sharing&authuser=0)
+- 📄 Know about my experiences  -   [![LibreOffice](https://img.shields.io/badge/Resume-%2318A303?logo=LibreOffice&logoColor=white)](https://drive.google.com/file/d/12u0yyLzdusYEc1AE5pIy8rjkv8SNgjm0/view?usp=sharing&authuser=0)
 
-- 🤙 Rreach me at: [Email](mailto:imranrony687@gmail.com) | [WhatsApp](https://sites.google.com/view/imranrony/contacts) | [Messenger](https://www.facebook.com/imran.rony.3591)
+- 🧧   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranrony687@gmail.com)  🤙   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://sites.google.com/view/imranrony/contacts)  📲   [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/imran.rony.3591)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-imranrony&show_icons=true&locale=en&layout=compact" alt="al-imranrony"/> </p>
 
@@ -46,10 +48,13 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
 <a href="https://www.leetcode.com/i_rony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_rony" height="30" width="40" /></a>
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=al-imranrony&show_icons=true&locale=en" alt="al-imranrony" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=al-imranrony&" alt="al-imranrony" />
+</a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=al-imranrony&show_icons=true&locale=en" alt="al-imranrony" /> </p>
- 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=al-imranrony&" alt="al-imranrony" />
-</p>
+<a href="https://www.linkedin.com/in/imran-rony/" target="blank"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true)" /></a>
+<!-- ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true) -->
 
