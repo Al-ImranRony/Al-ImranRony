@@ -24,7 +24,7 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
 
 - 📄 Know about my experiences  -   [![LibreOffice](https://img.shields.io/badge/CV-Profile-%2318A303?logo=LibreOffice&logoColor=white)](https://drive.google.com/file/d/12u0yyLzdusYEc1AE5pIy8rjkv8SNgjm0/view?usp=sharing&authuser=0)
 
-- 🧧   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranrony687@gmail.com)  🤙   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://sites.google.com/view/imranrony/contacts)  📲   [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/imran.rony.3591)
+ 🧧   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranrony687@gmail.com)  🤙   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://sites.google.com/view/imranrony/contacts)  📲   [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/imran.rony.3591)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-imranrony&show_icons=true&locale=en&layout=compact" alt="al-imranrony"/> </p>
 
@@ -55,6 +55,6 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=al-imranrony&" alt="al-imranrony" />
 </a>
 
-<a href="https://www.linkedin.com/in/imran-rony/" target="blank"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true)" /></a>
+<!-- <a href="https://www.linkedin.com/in/imran-rony/" target="blank"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true)" /></a> -->
 <!-- ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true) -->
 
