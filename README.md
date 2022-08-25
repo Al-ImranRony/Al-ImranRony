@@ -22,7 +22,7 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
 - 🌱 I’m currently learning  -  ![iOS](https://img.shields.io/badge/SWIFTUI-yellowgreen?logo=ios&logoColor=black) 
 <!--  [![Apple](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://stackoverflow.com/users/5650328/adeel) -->
 
-- 📄 Know about my experiences  -   [![LibreOffice](https://img.shields.io/badge/Resume-%2318A303?logo=LibreOffice&logoColor=white)](https://drive.google.com/file/d/12u0yyLzdusYEc1AE5pIy8rjkv8SNgjm0/view?usp=sharing&authuser=0)
+- 📄 Know about my experiences  -   [![LibreOffice](https://img.shields.io/badge/CV-Profile-%2318A303?logo=LibreOffice&logoColor=white)](https://drive.google.com/file/d/12u0yyLzdusYEc1AE5pIy8rjkv8SNgjm0/view?usp=sharing&authuser=0)
 
 - 🧧   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranrony687@gmail.com)  🤙   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://sites.google.com/view/imranrony/contacts)  📲   [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/imran.rony.3591)
 
