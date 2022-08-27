@@ -55,6 +55,4 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=al-imranrony&" alt="al-imranrony" />
 </a>
 
-<!-- <a href="https://www.linkedin.com/in/imran-rony/" target="blank"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true)" /></a> -->
-<!-- ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true) -->
 
