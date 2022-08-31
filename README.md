@@ -11,9 +11,9 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
 
 - 🤝 Looking for help with learning about - **API, App-Architecture and Algorithm designing**
 
-- 🔭 Developing skills on Python with Competitive Programming and Personal project - **Pigeon-Mail**
+- 🔭 Developing skills on Python with Competitive Programming and Personal project - **Pigeon-MailBot**
 
-- 👯 Looking to collaborate on projects based on - **Python-Django & Blockchain**
+- 👯 Looking to collaborate on projects based on - **Python-Django & Blockchain-NFT**
 
 - 👨‍💻 All of my projects are available at - <a href="https://sites.google.com/view/imranrony/portfolio?authuser=0" target="blank"><img src="https://img.shields.io/badge/portfolio-Website-%2318A303" /></a>
 
