@@ -50,14 +50,13 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
 <a href="https://www.codechef.com/users/morphin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="morphin" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=al-imranrony&show_icons=true&locale=en" alt="al-imranrony" />
 </a>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-imranrony&show_icons=true&locale=en&layout=compact" alt="al-imranrony"/>
 </p>
 <a href="https://github.com/anuraghazra/convoychat">
-   
+   <imgss src="https://github-readme-stats.vercel.app/api/top-langs?username=al-imranrony&show_icons=true&locale=en&layout=compact" alt="al-imranrony"/>
 </a>
 
 
