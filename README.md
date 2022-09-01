@@ -53,8 +53,11 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=al-imranrony&show_icons=true&locale=en" alt="al-imranrony" />
 </a>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-imranrony&show_icons=true&locale=en&layout=compact" alt="al-imranrony"/>
+</p>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-imranrony&show_icons=true&locale=en&layout=compact" alt="al-imranrony"/>  
+   
 </a>
 
 
