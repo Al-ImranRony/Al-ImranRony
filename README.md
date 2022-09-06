@@ -24,7 +24,7 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
 
 - 📄 Know about my experiences  -   [![LibreOffice](https://img.shields.io/badge/CV-Profile-%2318A303?logo=LibreOffice&logoColor=white)](https://drive.google.com/file/d/12u0yyLzdusYEc1AE5pIy8rjkv8SNgjm0/view?usp=sharing&authuser=0)
 
- 🧧   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranrony687@gmail.com)  🤙   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/8801687024647)  📲   [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/imran.rony.3591)
+ 🧧   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranrony687@gmail.com)  🤙   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01687024647&text&type=phone_number)  📲   [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/imran.rony.3591)
 
 <p align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=al-imranrony&" alt="al-imranrony" />
