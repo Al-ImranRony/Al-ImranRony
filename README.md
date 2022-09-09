@@ -9,7 +9,7 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
 
 - 👨‍💻 Currently, I'm working on **iOS development along with Blockchain-NFT based application**
 
-- 🤝 Looking for help with learning about - **API, App-Architecture and Algorithm designing**
+- 🤝 Looking for help with learning about - **API, App-Architecture and Blockchain development**
 
 - 🔭 Developing skills on Python with Competitive Programming and Personal project - **Pigeon-MailBot**
 
