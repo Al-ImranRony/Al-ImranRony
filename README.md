@@ -7,15 +7,15 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
 
 <p align="left"> <a href="https://twitter.com/imran_r0ny" target="blank"><img src="https://img.shields.io/twitter/follow/imran_r0ny?logo=twitter&style=for-the-badge" alt="imran_r0ny" /></a>  -  <a href="https://sites.google.com/view/imranrony" target="blank"><img src="https://img.shields.io/badge/iRony-Website-yellowgreen" /></a>  -  <a href="https://www.linkedin.com/in/imran-rony/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
-- 👨‍💻 Currently, I'm working on **iOS development along with Blockchain-NFT based application**
+- 👨‍💻 Currently, I'm working on **iOS development along with Blockchain-NFT based applications**
 
-- 🤝 Looking for help with learning about - **API, App-Architecture and Blockchain development**
+- 🤝 Looking for help about learning - **Software-Architecture and Blockchain development**
 
-- 🔭 Developing skills on Python with Competitive Programming and Personal project - **Pigeon-MailBot**
+- 🔭 Developing skills on Python with Problem solving and Personal project - **Pigeon-MailBot**
 
 - 👯 Looking to collaborate on projects based on - **Python-Django & Blockchain-NFT**
 
-- 👨‍💻 All of my projects are available at - <a href="https://sites.google.com/view/imranrony/portfolio?authuser=0" target="blank"><img src="https://img.shields.io/badge/portfolio-Website-%2318A303" /></a>
+- 👨‍💻 All of my projects are available at - <a href="https://al-imranrony.github.io/portfolio/" target="blank"><img src="https://img.shields.io/badge/portfolio-Website-%2318A303" /></a>
 
 - 💬 Ask me about new technologies with different ideas, I want to share knowledge of **Ethereum blockchain, IoT, NFT etc**
 
