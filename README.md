@@ -17,7 +17,7 @@ Meet an iOS developer, a python and blockchain enthusiast from Bangladesh, who l
 
 🖥️ All of my projects are available at - <a href="https://al-imranrony.github.io/portfolio/" target="blank"><img src="https://img.shields.io/badge/portfolio-Website-%2318A303" /></a>
 
-💬 Ask me about new technologies with different ideas, I want to share knowledge of **Ethereum blockchain, IoT, NFT etc**
+💬 Ask me about new technologies with different ideas, I want to share knowledge of **Blockchain, Cryptocurrency, IoT, NFT etc**
 
 🌱 I’m currently learning  -  ![iOS](https://img.shields.io/badge/SWIFTUI-yellowgreen?logo=ios&logoColor=black) 
 <!--  [![Apple](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://stackoverflow.com/users/5650328/adeel) -->
